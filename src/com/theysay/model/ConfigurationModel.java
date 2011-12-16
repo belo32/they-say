@@ -7,7 +7,7 @@ import java.awt.Font;
 import java.io.Serializable;
 import java.util.Observable;
 /**
- * The Configuration Model contains the configuration for the they say application
+ * The Configuration Model contains the configuration for the they say application change
  * @author Bilal Al-Hajjar
  *
  */
